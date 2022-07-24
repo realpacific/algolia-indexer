@@ -1,0 +1,14 @@
+{
+  "name": "algolia-indexer",
+  "version": "1.0.0",
+  "description": "Save objects from file to algolia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prashant Barahi",
+  "license": "MIT",
+  "dependencies": {
+    "algoliasearch": "^4.14.1"
+  }
+}
